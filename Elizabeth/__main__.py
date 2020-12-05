@@ -41,7 +41,7 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 PM_START_TEXT = f"""
 `Hi..Welcome` 👀
 `I'm` [No_One🍀](https://telegra.ph/file/4b730c265fbee7f78d752.jpg)
-`I'm` The Manager of @MovieXtreet ...`
+`I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
 """
 
 buttons += [[InlinekeyboardButton(text=👩‍💻 "My Owner"👩‍💻,
