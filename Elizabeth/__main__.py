@@ -44,16 +44,14 @@ PM_START_TEXT = f"""
 `I'm` The Manager of @MovieXtreet ...`
 """
 
-buttons = [[InlineKeyboardButton(text="➡️ HELP AND COMMANDS ⬅️",
-                                  callback_data="help_back"),
-]]
-
-buttons += [[InlineKeyboardButton(text="🌍 Can't Add to GROUP 🌍",
-                                  url="t.me/Elizabeth_TgBot?startgroup=true"),
+buttons += [[InlinekeyboardButton(text=👩‍💻 "My Owner"👩‍💻,
+                                  url="t.me/WONKRU_HERE")
+buttons += [[InlineKeyboardButton(text="🌍Can't Add to GROUPS🌍",
+                                  url="t.me/ArYa_hereBot?startgroup=false"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="💾SOURCE CODE",
-                                  url="https://github.com/wonkru-bot/No_One"),
+                                  url="https://github.com/wonkru-bot/No_One),
              InlineKeyboardButton(text="🌳SUPPORT",
                                   url="https://t.me/NO_ONE_support"),
 ]]
