@@ -41,21 +41,21 @@ from Elizabeth.modules.helper_funcs.alternate import typing_action
 PM_START_TEXT = f"""
 `Hi..Welcome` 👀
 `I'm` [No_One🍀](https://telegra.ph/file/4b730c265fbee7f78d752.jpg)
-`I'm here to help you manage your groups.. Click Help button to find out more about how to use me to my full potential..`
+`I'm The Manager of @MovieXtreet .. 
 """
 
 buttons = [[InlineKeyboardButton(text="➡️ HELP AND COMMANDS ⬅️",
                                   callback_data="help_back"),
 ]]
 
-buttons += [[InlineKeyboardButton(text="🌍 ADD ME TO YOUR GROUP 🌍",
+buttons += [[InlineKeyboardButton(text="🌍 Can't Add to GROUP 🌍",
                                   url="t.me/Elizabeth_TgBot?startgroup=true"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="💾SOURCE CODE",
-                                  url="https://github.com/P-RINC-E/ELIZABETH"),
+                                  url="https://github.com/wonkru-bot/No_One"),
              InlineKeyboardButton(text="🌳SUPPORT",
-                                  url="https://t.me/ELIZABETH_SUPPORT"),
+                                  url="https://t.me/NO_ONE_support"),
 ]]
 
 buttons += [[InlineKeyboardButton(text="🔒 CLOSE THE MENU 🔒",
